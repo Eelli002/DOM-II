@@ -58,3 +58,5 @@ const navLogo = document.querySelectorAll('.logo-heading')
         event.target.style.color = 'lightgrey'
         event.stopPropagation()
     });
+
+    console.log(divider)
